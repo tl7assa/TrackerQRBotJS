@@ -1,0 +1,13 @@
+{
+    "name": "telegram-attendance-bot",
+    "version": "1.0.0",
+    "description": "Бот для отслеживания посещаемости",
+    "main": "bot.js",
+    "scripts": {
+      "start": "node bot.js"
+    },
+    "dependencies": {
+      "telegraf": "^4.12.2",
+      "firebase-admin": "^11.10.1"
+    }
+  }
